@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+.container{
+    position: relative;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+
+
+.time{
+    position: relative;
+    width: 400px;
+    height: 250px;
+   background-color:#fccb06;
+   border-radius: 5px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
